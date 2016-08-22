@@ -1,4 +1,3 @@
-layout_spectrum: 0.40888788108713925
 typography_spectrum: 0.2570279634092003
 color:
   brandStrength: 0.16584687493741512
@@ -11,4 +10,9 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.40888788108713925
+author:
+  name: Dominic O'Brien
+  email: dominicnobrien@gmail.com
+  url: 'http://dominicobrien.co.uk'
 name: Off the cuff...
